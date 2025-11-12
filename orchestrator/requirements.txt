@@ -1,0 +1,6 @@
+﻿fastapi
+uvicorn
+pyspark
+pydantic
+python-dotenv
+uuid
